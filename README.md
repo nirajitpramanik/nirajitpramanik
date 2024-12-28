@@ -55,6 +55,7 @@ me.greet()
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nirajitpramanik/nirajitpramanik">
@@ -65,7 +66,7 @@ me.greet()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajitpramanik&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Nirajit's GitHub Stats" />
 </a>
 
-<!--
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajitpramanik&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
