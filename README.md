@@ -65,6 +65,7 @@ me.greet()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajitpramanik&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Nirajit's GitHub Stats" />
 </a>
 
+<!--
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nirajitpramanik&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -82,3 +83,4 @@ me.greet()
 <a href="https://github.com/nirajitpramanik/med-scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajitpramanik&repo=med-scanner&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="med-scanner" />
 </a>
+-->
